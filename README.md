@@ -18,8 +18,7 @@
   </a>
 </p>
 
-I'm Software developer with experience in full-stack web development and game development using the unity engine looking to gain
-valuable professional work experience while developing skills as a programmer.
+A hardworking and passionate entry-level front-end web developer with strong organizational skills eager to secure an entry-level front-end web developer position. Ready to help the team achieve company goals. Detail-oriented team player with strong organizational skills. Ability to handle multiple projects simultaneously with a high degree of accuracy. Organized and dependable candidate successful at managing multiple priorities with a positive attitude. Willingness to take on added responsibilities to meet team goals.
 
 See [my website](https://ejmilord.netlify.app/) for more information!
 
