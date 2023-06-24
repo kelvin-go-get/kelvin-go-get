@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <a href="#" target="_blank">
+  <a href="https://kelvin-njuiri.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/kelvin-njuiri-37b01a273/" target="_blank">
@@ -39,7 +39,7 @@ See [my website](https://ejmilord.netlify.app/) for more information!
 
 
 <p align="center">
-  <a href="#" target="_blank">
+  <a href="https://kelvin-njuiri.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/kelvin-njuiri-37b01a273/" target="_blank">
