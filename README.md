@@ -16,7 +16,7 @@ Code architect weaving dreams into reality. I don't just write code; I sculpt it
 
 See [my website](https://6496e67cdf9c3f5738a94346--kelvin-njuiri.netlify.app/) for more information!
 
-<h1 align="center">Technologies</h1>
+<h1 align="center">Skill Set</h1>
 
 
 <p align="center">
@@ -34,7 +34,7 @@ See [my website](https://6496e67cdf9c3f5738a94346--kelvin-njuiri.netlify.app/) f
 ---
 
 
-<h1 align="center">Connect</h1>
+<h1 align="center">Connect With Me</h1>
 
 
 
