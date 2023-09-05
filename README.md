@@ -1,58 +1,6 @@
-<h1 style="color: #0099cc;">👋 Hey there, I'm Kelvin Njuiri!</h1>
+![Typewriter Animation](https://raw.githubusercontent.com/snipeytypetoes/snipeytypetoes/master/typewriter.gif)
 
-<p style="color: #0099cc;">
-  <span id="typewriter-text"></span>
-</p>
-
-<script>
-  const text = "Hey am Kelvin Njuiri";
-  const delay = 100; // Delay in milliseconds
-
-  function typeWriter(text, i, cb) {
-    if (i < text.length) {
-      document.getElementById("typewriter-text").innerHTML += text.charAt(i);
-      i++;
-      setTimeout(() => typeWriter(text, i, cb), delay);
-    } else {
-      if (cb) setTimeout(cb, 1000);
-    }
-  }
-
-  document.addEventListener("DOMContentLoaded", () => {
-    typeWriter(text, 0, () => {
-      // Animation completed
-      // You can add more animations or content here
-    });
-  });
-</script>
-
-<h1 style="color: #0099cc;">👋 Hey there, I'm Kelvin Njuiri!</h1>
-
-<p style="color: #0099cc;">
-  <span id="typewriter-text"></span>
-</p>
-
-<script>
-  const text = "Hey am Kelvin Njuiri";
-  const delay = 100; // Delay in milliseconds
-
-  function typeWriter(text, i, cb) {
-    if (i < text.length) {
-      document.getElementById("typewriter-text").innerHTML += text.charAt(i);
-      i++;
-      setTimeout(() => typeWriter(text, i, cb), delay);
-    } else {
-      if (cb) setTimeout(cb, 1000);
-    }
-  }
-
-  document.addEventListener("DOMContentLoaded", () => {
-    typeWriter(text, 0, () => {
-      // Animation completed
-      // You can add more animations or content here
-    });
-  });
-</script>
+👋 Hey there, I'm Kelvin Njuiri!
 
 🌐 [Website](https://6496e67cdf9c3f5738a94346--kelvin-njuiri.netlify.app/) •
 📱 [LinkedIn](https://www.linkedin.com/in/kelvin-njuiri-37b01a273/) •
@@ -75,7 +23,7 @@ Code architect weaving dreams into reality. I don't just write code; I sculpt it
 
 ## 🌐 Connect With Me
 
-🌐 [Website](https://6496e67cdf9c3f5738a94346--kelvin-njuiri.netlify.app/) •
+🌐 [Website](https://6496e67cdf9c3f5738a43sdf0--kelvin-njuiri.netlify.app/) •
 📱 [LinkedIn](https://www.linkedin.com/in/kelvin-njuiri/) •
 🐦 [Twitter](https://twitter.com/k_njuiri) •
 📝 [Medium](https://medium.com/@knjuiri)
