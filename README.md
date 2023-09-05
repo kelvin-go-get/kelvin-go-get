@@ -7,13 +7,9 @@
 🐦 [Twitter](https://twitter.com/k_njuiri) •
 📝 [Medium](https://medium.com/@knjuiri)
 
-<details>
-  <summary>About Me</summary>
+Code architect weaving dreams into reality. I don't just write code; I sculpt it with intention. An advocate for clean, scalable, and modular solutions. Open-source enthusiast with a love for contributing to impactful projects. When I'm not pushing commits, you'll find me exploring the realms of technology, always seeking the next challenge to conquer.
 
-  Code architect weaving dreams into reality. I don't just write code; I sculpt it with intention. An advocate for clean, scalable, and modular solutions. Open-source enthusiast with a love for contributing to impactful projects. When I'm not pushing commits, you'll find me exploring the realms of technology, always seeking the next challenge to conquer.
-
-  🌐 Visit [my website](https://6496e67cdf9c3f5738a94346--kelvin-njuiri.netlify.app/) for more information!
-</details>
+🌐 Visit [my website](https://6496e67cdf9c3f5738a94346--kelvin-njuiri.netlify.app/) for more information!
 
 ## 🚀 Skill Set
 
@@ -23,11 +19,11 @@
 - React.js ⚛️
 - Git 📚
 
-<details>
-  <summary>Connect With Me</summary>
+---
 
-  🌐 [Website](https://6496e67cdf9c3f5738a43sdf0--kelvin-njuiri.netlify.app/) •
-  📱 [LinkedIn](https://www.linkedin.com/in/kelvin-njuiri/) •
-  🐦 [Twitter](https://twitter.com/k_njuiri) •
-  📝 [Medium](https://medium.com/@knjuiri)
-</details>
+## 🌐 Connect With Me
+
+🌐 [Website](https://6496e67cdf9c3f5738a43sdf0--kelvin-njuiri.netlify.app/) •
+📱 [LinkedIn](https://www.linkedin.com/in/kelvin-njuiri/) •
+🐦 [Twitter](https://twitter.com/k_njuiri) •
+📝 [Medium](https://medium.com/@knjuiri)
