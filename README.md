@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=👋Hey!+Kelvin+is+here.+;I'm+an+Interactive+Developer.+;Specializing+in+Software+Engineering)
 
-🌐 [Website](https://6496e67cdf9c3f5738a94346--kelvin-njuiri.netlify.app/) •
+🌐 [Website](https://6496e67cdf9c3f5738a94346--kelvin-njuiri.netlify.app/){style="font-size: 18px; font-weight: bold;"}
 📱 [LinkedIn](https://www.linkedin.com/in/kelvin-njuiri-37b01a273/) •
 🐦 [Twitter](https://twitter.com/k_njuiri) •
 📝 [Medium](https://medium.com/@knjuiri)
