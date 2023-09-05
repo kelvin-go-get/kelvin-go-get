@@ -1,4 +1,4 @@
-![Typewriter Animation](https://raw.githubusercontent.com/snipeytypetoes/snipeytypetoes/master/typewriter.gif)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Hey!+Kelvin+is+here.+;I'm+an+Interactive+Developer.+;Specializing+in+.NET+Technologie)](https://git.io/typing-svg)
 
 <span style="font-size: 24px; color: #0099cc;">👋 Hey there, I'm Kelvin Njuiri!</span>
 
