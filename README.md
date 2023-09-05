@@ -26,6 +26,34 @@
   });
 </script>
 
+<h1 style="color: #0099cc;">👋 Hey there, I'm Kelvin Njuiri!</h1>
+
+<p style="color: #0099cc;">
+  <span id="typewriter-text"></span>
+</p>
+
+<script>
+  const text = "Hey am Kelvin Njuiri";
+  const delay = 100; // Delay in milliseconds
+
+  function typeWriter(text, i, cb) {
+    if (i < text.length) {
+      document.getElementById("typewriter-text").innerHTML += text.charAt(i);
+      i++;
+      setTimeout(() => typeWriter(text, i, cb), delay);
+    } else {
+      if (cb) setTimeout(cb, 1000);
+    }
+  }
+
+  document.addEventListener("DOMContentLoaded", () => {
+    typeWriter(text, 0, () => {
+      // Animation completed
+      // You can add more animations or content here
+    });
+  });
+</script>
+
 🌐 [Website](https://6496e67cdf9c3f5738a94346--kelvin-njuiri.netlify.app/) •
 📱 [LinkedIn](https://www.linkedin.com/in/kelvin-njuiri-37b01a273/) •
 🐦 [Twitter](https://twitter.com/k_njuiri) •
