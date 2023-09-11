@@ -18,8 +18,7 @@
     <p align="center">CSS3 🎭</p>
   </div>
   <div>
-    <img src="![image](https://github.com/kelvin-go-get/kelvin-go-get/assets/133580011/c482213d-925d-407a-89d8-b60ecdcdbee8)
-" alt="JavaScript" height="80">
+    [image](https://github.com/kelvin-go-get/kelvin-go-get/assets/133580011/c482213d-925d-407a-89d8-b60ecdcdbee8)
     <p align="center">JavaScript 🚀</p>
   </div>
   <div>
