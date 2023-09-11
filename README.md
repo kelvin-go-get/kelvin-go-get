@@ -18,7 +18,7 @@
 
  🌐 Connect With Me
 
- <div style="align-items:center;">
+ <div style="align-items:center; color:white;">
       <a href="https://www.linkedin.com/in/kelvin-njuiri/" target="_blank"><i class="uil uil-linkedin"></i></a>
     <a href="https://twitter.com/k_njuiri" target="_blank"><i class="uil uil-twitter"></i></a>
   <a href="https://medium.com/@knjuiri" target="_blank"><i class="uil uil-medium-m"></i></a>
