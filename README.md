@@ -16,11 +16,10 @@
 
 ---
 
-## 🌐 Connect With Me
+ 🌐 Connect With Me
 
-<p align="center">
-  🌐 <a href = "https://kelvin-njuiri-git-kelvin2-kelvin-go-get.vercel.app/">My Website</a>
-  📱 <a href = "https://www.linkedin.com/in/kelvin-njuiri/"></a>
-  🐦 <a href = "https://twitter.com/k_njuiri"></a>
-  📝  <a href = "https://twitter.com/k_njuiri"></a>
-</p>
+ <div style="align-items:center;">
+      <a href="https://www.linkedin.com/in/kelvin-njuiri/" target="_blank"><i class="uil uil-linkedin"></i></a>
+    <a href="https://twitter.com/k_njuiri" target="_blank"><i class="uil uil-twitter"></i></a>
+  <a href="https://medium.com/@knjuiri" target="_blank"><i class="uil uil-medium-m"></i></a>
+    </div>
