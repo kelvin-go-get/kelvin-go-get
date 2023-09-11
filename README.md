@@ -10,7 +10,7 @@
     <p align="center">HTML5 🎨</p>
   </div>
   <div>
-    <img src="https://your-image-link-for-C-language" alt="C Language" height="80">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C Language" height="80">
     <p align="center">C Language</p>
   </div>
   <div>
