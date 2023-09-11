@@ -4,7 +4,7 @@
 
 ## 🚀 Skill Set
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <div style="text-align: center; margin: 0 20px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="80" alt="HTML5">
     <p>HTML5 🎨</p>
