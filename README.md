@@ -19,7 +19,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  🌐 <a href = "https://6496e67cdf9c3f5738a94346--kelvin-njuiri.netlify.app/">My Website</a>
+  🌐 <a href = "https://kelvin-njuiri-git-kelvin2-kelvin-go-get.vercel.app/">My Website</a>
   📱 <a href = "https://www.linkedin.com/in/kelvin-njuiri/"></a>
   🐦 <a href = "https://twitter.com/k_njuiri"></a>
   📝  <a href = "https://twitter.com/k_njuiri"></a>
