@@ -12,11 +12,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="80" alt="React.js" style="margin: 0 10px;">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="80" alt="Tailwind CSS" style="margin: 0 10px;">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="80" alt="Git" style="margin: 0 10px;">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="80" alt="Figma" style="margin: 0 10px;">
 </div>
 
 ---
 
- 🌐 Connect With Me
+<p>🌐 Connect With Me</p>
 
 <div style="display: flex; align-items: center; justify-content: center;">
   <a href ="https://www.linkedin.com/in/kelvin-njuiri/" <img src="https://cdn.jsdelivr.net/npm/simpleicons@3.0.1/icons/linkedin.svg" height="80" style="margin: 0 10px;"></a>
