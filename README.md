@@ -5,33 +5,33 @@
 ## 🚀 Skill Set
 
 <div style="display: flex; justify-content: center;">
-  <div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="80">
-    <p align="center">HTML5 🎨</p>
+  <div style="text-align: center; margin: 0 20px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="80" alt="HTML5">
+    <p>HTML5 🎨</p>
   </div>
-  <div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C Language" height="80">
-    <p align="center">C Language</p>
+  <div style="text-align: center; margin: 0 20px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="80" alt="C Language">
+    <p>C Language</p>
   </div>
-  <div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="80">
-    <p align="center">CSS3 🎭</p>
+  <div style="text-align: center; margin: 0 20px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="80" alt="CSS3">
+    <p>CSS3 🎭</p>
   </div>
-  <div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="C Language" height="80">
-    <p align="center">JavaScript 🚀</p>
+  <div style="text-align: center; margin: 0 20px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="80" alt="JavaScript">
+    <p>JavaScript 🚀</p>
   </div>
-  <div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" height="80">
-    <p align="center">React.js ⚛️</p>
+  <div style="text-align: center; margin: 0 20px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="80" alt="React.js">
+    <p>React.js ⚛️</p>
   </div>
-  <div>
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" height="80">
-    <p align="center">Tailwind CSS</p>
+  <div style="text-align: center; margin: 0 20px;">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="80" alt="Tailwind CSS">
+    <p>Tailwind CSS</p>
   </div>
-  <div>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="80">
-    <p align="center">Git 📚</p>
+  <div style="text-align: center; margin: 0 20px;">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="80" alt="Git">
+    <p>Git 📚</p>
   </div>
 </div>
 
@@ -39,7 +39,9 @@
 
 ## 🌐 Connect With Me
 
-🌐 [Website](https://6496e67cdf9c3f5738a94346--kelvin-njuiri.netlify.app/) •
-📱 [LinkedIn](https://www.linkedin.com/in/kelvin-njuiri/) •
-🐦 [Twitter](https://twitter.com/k_njuiri) •
-📝 [Medium](https://medium.com/@knjuiri)
+<p align="center">
+  🌐 [Website](https://6496e67cdf9c3f5738a94346--kelvin-njuiri.netlify.app/) •
+  📱 [LinkedIn](https://www.linkedin.com/in/kelvin-njuiri/) •
+  🐦 [Twitter](https://twitter.com/k_njuiri) •
+  📝 [Medium](https://medium.com/@knjuiri)
+</p>
