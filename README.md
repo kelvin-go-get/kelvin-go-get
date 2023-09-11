@@ -17,11 +17,10 @@
 
 ---
 
-<p>🌐 Connect With Me</p>
 
 <div style="display: flex; align-items: center; justify-content: center;">
-  <a href ="https://www.linkedin.com/in/kelvin-njuiri/" <img src="https://cdn.jsdelivr.net/npm/simpleicons@3.0.1/icons/linkedin.svg" height="80" style="margin: 0 10px;"></a>
-   <a href ="https://twitter.com/k_njuiri" <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" height="80" style="margin: 0 10px;"></a>
-    <a href ="https://medium.com/@knjuiri" <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/medium.svg" style="margin: 0 10px;"></a>
+   <a href ="https://kelvin-njuiri-git-kelvin2-kelvin-go-get.vercel.app/" <p style="color: #0366d6;">🌐 Connect With Me</p></a>
+  <a href="https://www.linkedin.com/in/kelvin-njuiri/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="80" style="margin: 0 10px;"></a>
+  <a href="https://twitter.com/k_njuiri"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" height="80" style="margin: 0 10px;"></a>
+  <a href="https://medium.com/@knjuiri"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/medium.svg" height="80" style="margin: 0 10px;"></a>
 </div>
-
