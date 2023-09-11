@@ -4,14 +4,14 @@
 
 ## 🚀 Skill Set
 
-<div style="display: flex; align-items:center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="80" alt="HTML5">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="80" alt="C Language">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="80" alt="CSS3">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="80" alt="JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="80" alt="React.js">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="80" alt="Tailwind CSS">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="80" alt="Git">
+<div style="display: flex; align-items: center; justify-content: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="80" alt="HTML5" style="margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="80" alt="C Language" style="margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="80" alt="CSS3" style="margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="80" alt="JavaScript" style="margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="80" alt="React.js" style="margin: 0 10px;">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="80" alt="Tailwind CSS" style="margin: 0 10px;">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="80" alt="Git" style="margin: 0 10px;">
 </div>
 
 ---
@@ -19,8 +19,8 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  🌐 [Website](https://kelvin-njuiri-git-kelvin2-kelvin-go-get.vercel.app/) •
-  📱 [LinkedIn](https://www.linkedin.com/in/kelvin-njuiri/) •
-  🐦 [Twitter](https://twitter.com/k_njuiri) •
-  📝 [Medium](https://medium.com/@knjuiri)
+  🌐 <a href = "https://6496e67cdf9c3f5738a94346--kelvin-njuiri.netlify.app/">My Website</a>
+  📱 <a href = "https://www.linkedin.com/in/kelvin-njuiri/"></a>
+  🐦 <a href = "https://twitter.com/k_njuiri"></a>
+  📝  <a href = "https://twitter.com/k_njuiri"></a>
 </p>
