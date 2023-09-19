@@ -16,7 +16,7 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="80" alt="Figma" style="margin: 0 10px;">
 </div>
 
-<a href ="https://kelvin-njuiri-git-kelvin2-kelvin-go-get.vercel.app/" style="color: #0366d6; font-size:26px; font-weight:700;">🌐 Let's connect Buddie</a>
+##🌐Hey there, Let's connect Buddie
 
 <div style="display: flex; align-items: center; justify-content: center; gap:50px;">
   <a href="https://www.linkedin.com/in/kelvin-njuiri/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="80" style="margin: 0 40px; color: #0366d6;"></a>
