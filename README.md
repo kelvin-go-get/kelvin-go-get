@@ -15,3 +15,14 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="80" alt="Git" style="margin: 0 10px;">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="80" alt="Figma" style="margin: 0 10px;">
 </div>
+
+
+
+
+
+<p align="center">
+  <a href="https://github.com/kelvin-go-get">
+    <img src="https://komarev.com/ghpvc/?username=kelvin-go-get&color=blue&style=flat)" />
+  </a>
+</p>
+
