@@ -14,6 +14,7 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="80" alt="Tailwind CSS" style="margin: 0 10px;">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="80" alt="Git" style="margin: 0 10px;">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="80" alt="Figma" style="margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="80" alt="Figma" style="margin: 0 10px;">
 </div>
 
 <div style="margin-top:20px;">
