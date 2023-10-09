@@ -14,8 +14,8 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="80" alt="Tailwind CSS" style="margin: 0 10px;">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="80" alt="Git" style="margin: 0 10px;">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="80" alt="Figma" style="margin: 0 10px;">
+     <img src="https://github.com/kelvin-go-get/kelvin-go-get/assets/133580011/940c67cd-ff10-4c09-b569-62c60f02560a" height="80" alt="Nodejs" style="margin: 0 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="80" alt="Figma" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="80" alt="Nodejs" style="margin: 0 10px;">
 </div>
 
 <div style="margin-top:20px;">
