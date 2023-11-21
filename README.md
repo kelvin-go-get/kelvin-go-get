@@ -3,21 +3,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Code+architect+weaving+dreams+into+reality.+I+don't+just+write+code;I+sculpt+it+with+intention.+An+advocate+for+clean,+scalable,+and+modular+solutions.+Open-source+enthusiast+with+a+love+for+contributing+to+impactful+projects.+When+I'm+not+pushing+commits,+you'll+find+me+exploring+the+realms+of+technology,+always+seeking+the+next+challenge+to+conquer)
 
 
-## 🚀 Skill Set
-
-<div style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="80" alt="HTML5" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="80" alt="C Language" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="80" alt="CSS3" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="80" alt="JavaScript" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="80" alt="React.js" style="margin: 0 10px;">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="80" alt="Tailwind CSS" style="margin: 0 10px;">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="80" alt="Git" style="margin: 0 10px;">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="80" alt="Figma" style="margin: 0 10px;">
-     <img src="https://github.com/kelvin-go-get/kelvin-go-get/assets/133580011/940c67cd-ff10-4c09-b569-62c60f02560a" height="80" alt="Nodejs" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="80" alt="Figma" style="margin: 0 10px;">
-</div>
-
 <div style="margin-top:20px;">
   <p>
     <a href="https://github.com/kelvin-go-get">
@@ -25,4 +10,24 @@
     </a>
   </p>
 </div>
+
+
+## 🚀 Skill Set
+
+* Html
+* Css
+* Javascript
+* c
+* React
+* Tailwind Css
+* Bootstrap
+* Node Js
+* Ubuntu
+* Figma
+* Vercel
+
+#Feel free to connect👇
+* [Linkedin](https://www.linkedin.com/in/kelvin-njuiri/)
+  &   [Mail](mailto:knjuiri@gmail.com) 
+* 👨‍💻 [Portfolio](https://kelvin-njuiri.vercel.app/)
 
