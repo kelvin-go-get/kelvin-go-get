@@ -26,7 +26,8 @@
 * Figma
 * Vercel
 
-#Feel free to connect👇
+## Feel free to connect👇
+
 * [Linkedin](https://www.linkedin.com/in/kelvin-njuiri/)
   &   [Mail](mailto:knjuiri@gmail.com) 
 * 👨‍💻 [Portfolio](https://kelvin-njuiri.vercel.app/)
