@@ -11,24 +11,9 @@
   </p>
 </div>
 
-
-## 🚀 Skill Set
-
-* Html
-* Css
-* Javascript
-* c
-* React
-* Tailwind Css
-* Bootstrap
-* Node Js
-* Ubuntu
-* Figma
-* Vercel
-
 ## Feel free to connect👇
 
-* [Linkedin](https://www.linkedin.com/in/kelvin-njuiri/)
+* [Linkedin](https://www.linkedin.com/in/kelvin-njuiri-aa65842b1/)
   &   [Mail](mailto:knjuiri@gmail.com) 
 * 👨‍💻 [Portfolio](https://kelvin-njuiri.vercel.app/)
 
