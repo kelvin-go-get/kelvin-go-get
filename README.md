@@ -6,6 +6,8 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=Join+me+on+a+journey+through+code+and+innovation🌐.)
 
+
+
 <div style="margin-top:20px;">
   <p>
     <a href="https://github.com/kelvin-go-get">
@@ -13,3 +15,4 @@
     </a>
   </p>
 </div>
+
