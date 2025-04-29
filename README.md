@@ -1,3 +1,4 @@
+---
 ### 👋 Yo, I'm Kelvin — Code Alchemist ⚡️
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=🧪+Turning+coffee+into+clean+code...)
