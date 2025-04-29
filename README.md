@@ -1,9 +1,9 @@
-### 👋 Hey there, I'm Kelvin!
+### 👋 Yo, I'm Kelvin — Code Alchemist ⚡️
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=🚀Welcome+to+Kelvin's+Code+Lab!👨‍💻.)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Crafting+code+like+a+digital+artisan🎨.)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=Exploring+the+future+of+tech+one+line+at+a+time🌟.)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=Join+me+on+a+journey+through+code+and+innovation🌐.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=🧪+Turning+coffee+into+clean+code...)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=🧠+Building+brains+into+apps+with+AI+magic)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=🌍+Code+that+connects+people,+pixels,+and+purpose)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=🚀+Exploring+tech+galaxies+line+by+line)
 
 ---
 
