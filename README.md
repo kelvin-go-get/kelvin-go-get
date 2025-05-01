@@ -27,25 +27,19 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=kelvin-go-get&color=blue&style=flat)
 
 ---
+### 🚀 Fun Facts (aka Things You Didn't Know You Needed to Know)
 
-### 🚀 Fun Facts
-
-- I once optimized a search algorithm so fast it gave me a speed rush. ⚡️
-- If I'm not coding, I'm probably perfecting my coffee brewing technique. ☕
-- My favorite programming language? The one that solves the problem most efficiently. 🧑‍💻
-
----
-
-### 🌍 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/kelvin-njuiri-40b492346/)  
-- [GitHub](https://github.com/kelvin-go-get)  
-- [Twitter](https://x.com/k31v9n)
+- I once optimized a search algorithm so fast, it literally outran the competition. ⚡️
+- When I'm not coding, I’m likely experimenting with new coffee brewing methods to fuel my next idea. ☕💡
+- Code is my language, but if you catch me at the right moment, I’ll also speak fluent sarcasm. 😎
+- I live by the motto: "Great code is like a great meal – it's all about the ingredients and the execution." 🍳🍴
 
 ---
 
-### 💬 Let's Collaborate
+### 🌍 Let’s Connect (But Keep It Cool 😎)
 
-- If you're looking for a passionate developer, a coding partner, or just a tech chat, feel free to reach out! I'm always down for cool projects and new ideas. 
+- [LinkedIn](https://www.linkedin.com/in/kelvin-njuiri-40b492346/)** – Let’s chat about tech, AI, and how to break the internet together.
+- [GitHub](https://github.com/kelvin-go-get)** – Check out my repositories, where code lives and evolves.
+- [Twitter](https://x.com/k31v9n)** – Follow my ramblings about code, life, and coffee. ☕💻
 
 ---
