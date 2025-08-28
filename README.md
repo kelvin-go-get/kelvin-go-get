@@ -28,11 +28,8 @@
 
 ---
 ### 🚀 Fun Facts (aka Things You Didn't Know You Needed to Know)
-
-- I once optimized a search algorithm so fast, it literally outran the competition. ⚡️
 - When I'm not coding, I’m likely experimenting with new coffee brewing methods to fuel my next idea. ☕💡
 - Code is my language, but if you catch me at the right moment, I’ll also speak fluent sarcasm. 😎
-- I live by the motto: "Great code is like a great meal – it's all about the ingredients and the execution." 🍳🍴
 
 ---
 
