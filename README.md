@@ -36,7 +36,6 @@
 ### 🌍 Let’s Connect (But Keep It Cool 😎)
 
 - [LinkedIn](https://www.linkedin.com/in/kelvin-njuiri-40b492346/) – Let’s chat about tech, AI, and how to break the internet together.
-- [GitHub](https://github.com/kelvin-go-get) – Check out my repositories, where code lives and evolves.
 - [Twitter](https://x.com/k31v9n) – Follow my ramblings about code, life, and coffee. ☕💻
 
 ---
