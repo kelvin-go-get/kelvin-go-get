@@ -6,21 +6,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=kelvin-go-get&show_icons=true&theme=radical" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin-go-get&layout=compact&theme=radical" />
-    </td>
-  </tr>
-</table>
-
----
-
 ### 🔍 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kelvin-go-get&color=blue&style=flat)
